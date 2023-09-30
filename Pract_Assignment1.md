@@ -11,7 +11,7 @@ Group 1: Leader: Prachi, Topic: Cyber Security Company
     Sakshi Bhate
     Kinjal Mule
 
-Group 2: Leader: Sanket, Topic: Cyber Security News 
+Group 2: Leader: Swaroop, Topic: Cyber Security News 
     Swaroop D.
     Suraj N.
     Nihkil J.
